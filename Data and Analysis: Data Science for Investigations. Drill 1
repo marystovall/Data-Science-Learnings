@@ -1,0 +1,54 @@
+**Below we have a series of questions for you to translate into a technical plan. For each question, describe how you would make it testable and translate it from a general question into something statistically rigorous. Write your answers down in a shareable document and submit the link below.**
+
+
+**1. You work at an e-commerce company that sells three goods: widgets, doodads, and fizzbangs. The head of advertising asks you which they should feature in their new advertising campaign. You have data on individual visitors' sessions (activity on a website, pageviews, and purchases), as well as whether or not those users converted from an advertisement for that session. You also have the cost and price information for the goods.**
+
+_Analyze each of the three goods using the data available to understand the customer journey to converting by purchasing the product_ 
+
+_*Questions to ask:*_ 
+
+~ How long did it take for a customer to purchase each product?
+~ Does time of year affect purchase?
+~ Does price make a difference?
+~ Was the advertisement effective? If so which product was the most successful? Why or why not? e.g was the ad campaign well created? 
+~ How was the user experience navigating the website to purchase for each product. e.g. Did they drop off at certain points? Did some products have a quicker path to conversion?
+
+**2. You work at a web design company that offers to build websites for clients. Signups have slowed, and you are tasked with finding out why. The onboarding funnel has three steps: email and password signup, plan choice, and payment. On a user level you have information on what steps they have completed as well as timestamps for all of those events for the past 3 years. You also have information on marketing spend on a weekly level.
+
+_Analyze each step of the onboarding funnel_
+
+_*Questions to ask:*_
+
+~ Where are they dropping off in each step of the customer journey?
+~ Does time of year make a difference
+~ Are the products still viable in the current market?
+~ Has pricing changed over the years? Is it competitive?
+~ Is each online component of the signup process working? e.g. How long does it take customers to find what they are looking for on the website? Are they able to submit their information quickly? Is the payment option easy to complete?
+~ Are customer questions being answered appropriately?
+
+**3.** You work at a hotel website and currently the website ranks search results by price. For simplicity's sake, let's say it's a website for one city with 100 hotels. You are tasked with proposing a better ranking system. You have session information, price information for the hotels, and whether each hotel is currently available.
+
+_*Questions to ask:*_
+
+~ What information do the sessions provide? e.g. Are people dropping off because they can't find what they are looking for or are they dropping off because they think prices are two high?
+
+~ Is each component of the website working properly? Is it loading quickly? Are people able to search and find the amenities they want?
+
+*Create a new ranking system allowing people to sort by availablity, prices, rooms, amenities, location, vicinity to shopping, restaurants, convention centers, business hubs.*
+  
+
+**4.** You work at a social network, and the management is worried about churn (users stopping using the product). You are tasked with finding out if their churn is atypical. You have three years of data for users with an entry for every time they've logged in, including the timestamp and length of session.
+
+_*Questions to ask:* 
+
+~ How have users changed they way they use the network? 
+~ Are there new social networks that are providing features consumers want?
+~ Have old social networks implemented new features?
+~ Did something negative happen at the company that affected user's trust?
+~ Has the user demographic base changed? 
+~ Has the social media company implemented new programs.
+
+
+
+
+Discuss your answers to each of these questions with your mentor during your next session.
