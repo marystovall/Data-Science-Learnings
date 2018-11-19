@@ -1,3 +1,3 @@
 # Thinkful-Data-Science
 
-Capturing my code, thoughts and answers to drills from the course.
+Capturing my code, permutaions and other ponderings....
