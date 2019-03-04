@@ -1,0 +1,17 @@
+-- What neighborhoods seem to be the most popular? Mission and Westernd Addition
+
+SELECT 
+neighbourhood,
+SUM(number_of_reviews)
+FROM sfo_listings
+GROUP BY neighbourhood
+ORDER BY sum
+DESC
+;
+
+
+
+
+
+
+

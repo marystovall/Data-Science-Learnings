@@ -1,0 +1,13 @@
+---What time of year is the cheapest time to go to San Francisco? What about the busiest?
+SELECT 
+calender_date, COUNT(calender_date)
+price
+FROM sfo_calendar;
+SELECT MIN(price)
+GROUP BY listing_id, calender_date
+ORDER BY price
+DESC;
+
+
+
+

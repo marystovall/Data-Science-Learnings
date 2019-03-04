@@ -1,0 +1,12 @@
+--- What's the most expensive listing? What else can you tell me about the listing? 
+--- The Western Addition is the most expensive listing at $10,000 per night with a minimum two night stay for a 
+--- Full House Victorian: 7500 SqFt, 4 Floors, Hot Tub
+-- The home has been listed four times and it is available 18 days out of the year.
+
+SELECT calculated_host_listings_count,neighbourhood
+FROM sfo_listings
+GROUP BY neighbourhoodcalculated_host_listings_count
+ORDER BY calculated_host_listings_count
+DESC;
+ 
+
