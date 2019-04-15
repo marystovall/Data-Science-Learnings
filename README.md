@@ -1,3 +1,3 @@
-# Thinkful-Data-Science
+# Data-Science
 
-Capturing Code, Capstones & Challenges
+Capturing Code, Capstones & Challenges from data-science courses.
