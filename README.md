@@ -1,3 +1,3 @@
 # Data-Science
 
-Capturing Code, Capstones & Challenges from data-science courses.
+Capturing Code, Capstones & Challenges along the data-science journey.
